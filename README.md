@@ -1,5 +1,5 @@
 # Hello-world
-For studing purposes
+Just another purpose
 
 I am ALex/
 
